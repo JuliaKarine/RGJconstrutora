@@ -11,7 +11,9 @@
 
 
 
-.principal{background-color: rgba(221, 219, 219, 0.61);}
+.principal{background-color: rgba(221, 219, 219, 0.61);
+    padding: 13px;
+}
 
 
 
