@@ -5,11 +5,9 @@
 
 
 
-
 .imagem_logo{
     width:38% ;
 }
-
 
 
 
@@ -17,16 +15,16 @@
 
 
 
-
 h1{color: rgb(51, 50, 50);
-text-align: center;
-font-size: 37px
+    text-align: center;
+    font-size: 37px
 ;}
 
 
 
 
-
-p {font-size: 20px;color: rgb(95, 96, 99);}
+p {font-size: 20px;
+    color: rgb(95, 96, 99);
+    text-align:center ;}
 
 
