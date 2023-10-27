@@ -3,13 +3,29 @@
     text-align: center;
 }
 
+
+
+
 .imagem_logo{
     width:38% ;
 }
 
+
+
+
 .principal{background-color: rgba(221, 219, 219, 0.61);}
 
-h1{color: rgb(51, 50, 50);}
+
+
+
+h1{color: rgb(51, 50, 50);
+text-align: center
+;}
+
+
+
 
 
 p {font-size: 20px;color: rgb(95, 96, 99);}
+
+
