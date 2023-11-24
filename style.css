@@ -38,7 +38,9 @@ h2{color: black;
    padding: 23px;}
 
 
-   .texto {background-color: #FFFFFF;
+   .texto {background-color: #888686;
     }
 
 .foto{width: 30vw;}
+
+.fotos {align-items: center;}
