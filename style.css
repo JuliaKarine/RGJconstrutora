@@ -43,4 +43,5 @@ h2{color: black;
 
 .foto{width: 30vw;}
 
-.fotos {align-items: center;}
+.fotos {align-items: center;
+justify-content: center;}
