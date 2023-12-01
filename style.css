@@ -41,7 +41,8 @@ h2{color: black;
    .texto {background-color: #c9c7c7;
     }
 
-.foto{width: 30vw;}
+.foto{width: 30vw;
+     height: 20vw;}
 
 .fotos {text-align: center;
 justify-content: center;}
